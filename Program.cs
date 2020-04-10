@@ -6,7 +6,20 @@ namespace ConsoleAplicaton
     {
         static void Main(string[] args)
         {
-           
+            DocumentWorker docwor;
+            Console.Write("Enter key: ");
+            string key = Console.ReadLine();
+
+            if (key=="pro")
+                docwor = new ProDocumentWorker();
+            else if (key=="exp")
+                docwor = new ExpertDocumentWorker();
+            else
+                docwor = new DocumentWorker();
+
+            docwor.OpenDocument();
+            docwor.EditDocument();
+            docwor.SaveDocument();
         }   
         class DocumentWorker
         {
