@@ -1,0 +1,11 @@
+C:\HomeWork\09-04\bin\Debug\netcoreapp3.1\ConsoleAplicaton.exe
+C:\HomeWork\09-04\bin\Debug\netcoreapp3.1\ConsoleAplicaton.deps.json
+C:\HomeWork\09-04\bin\Debug\netcoreapp3.1\ConsoleAplicaton.runtimeconfig.json
+C:\HomeWork\09-04\bin\Debug\netcoreapp3.1\ConsoleAplicaton.runtimeconfig.dev.json
+C:\HomeWork\09-04\bin\Debug\netcoreapp3.1\ConsoleAplicaton.dll
+C:\HomeWork\09-04\bin\Debug\netcoreapp3.1\ConsoleAplicaton.pdb
+C:\HomeWork\09-04\obj\Debug\netcoreapp3.1\ConsoleAplicaton.csprojAssemblyReference.cache
+C:\HomeWork\09-04\obj\Debug\netcoreapp3.1\ConsoleAplicaton.AssemblyInfoInputs.cache
+C:\HomeWork\09-04\obj\Debug\netcoreapp3.1\ConsoleAplicaton.AssemblyInfo.cs
+C:\HomeWork\09-04\obj\Debug\netcoreapp3.1\ConsoleAplicaton.dll
+C:\HomeWork\09-04\obj\Debug\netcoreapp3.1\ConsoleAplicaton.pdb
